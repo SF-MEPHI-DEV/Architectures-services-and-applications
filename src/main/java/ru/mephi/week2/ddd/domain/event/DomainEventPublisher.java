@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.ddd.domain.event;
+package ru.mephi.week2.ddd.domain.event;
 
 import java.util.ArrayList;
 import java.util.List;

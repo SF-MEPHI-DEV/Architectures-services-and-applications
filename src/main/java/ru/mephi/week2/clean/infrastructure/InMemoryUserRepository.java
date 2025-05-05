@@ -1,9 +1,9 @@
-package ru.mephi.week1.week2.clean.infrastructure;
+package ru.mephi.week2.clean.infrastructure;
 
 
 import org.springframework.stereotype.Repository;
-import ru.mephi.week1.week2.clean.domain.User;
-import ru.mephi.week1.week2.clean.interfaces.UserRepository;
+import ru.mephi.week2.clean.domain.User;
+import ru.mephi.week2.clean.interfaces.UserRepository;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package ru.mephi.week1.week2.clean.interfaces;
+package ru.mephi.week2.clean.interfaces;
 
-import ru.mephi.week1.week2.clean.domain.User;
+import ru.mephi.week2.clean.domain.User;
 
 public interface UserRepository {
     User save(User user);

@@ -1,8 +1,9 @@
-package ru.mephi.week1.week2.layered.service;
+package ru.mephi.week2.layered.service;
 
-import ru.mephi.week1.week2.layered.model.User;
-import ru.mephi.week1.week2.layered.repository.UserRepository;
+
 import org.springframework.stereotype.Service;
+import ru.mephi.week2.layered.model.User;
+import ru.mephi.week2.layered.repository.UserRepository;
 
 @Service
 public class UserService {

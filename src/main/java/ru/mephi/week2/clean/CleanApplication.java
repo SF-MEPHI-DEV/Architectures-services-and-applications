@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.clean;
+package ru.mephi.week2.clean;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

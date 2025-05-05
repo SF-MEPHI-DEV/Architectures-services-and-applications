@@ -1,11 +1,11 @@
-package ru.mephi.week1.week2.layered.controller;
+package ru.mephi.week2.layered.controller;
 
-import ru.mephi.week1.week2.layered.dto.UserRequest;
-import ru.mephi.week1.week2.layered.model.User;
-import ru.mephi.week1.week2.layered.service.UserService;
+import ru.mephi.week2.layered.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import ru.mephi.week2.layered.dto.UserRequest;
+import ru.mephi.week2.layered.model.User;
 
 @RestController
 @RequestMapping("/users")

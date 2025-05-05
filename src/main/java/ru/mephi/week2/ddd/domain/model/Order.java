@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.ddd.domain.model;
+package ru.mephi.week2.ddd.domain.model;
 
 import java.util.ArrayList;
 import java.util.Collections;

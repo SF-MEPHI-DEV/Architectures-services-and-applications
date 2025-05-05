@@ -1,6 +1,6 @@
-package ru.mephi.week1.week2.layered.repository;
+package ru.mephi.week2.layered.repository;
 
-import ru.mephi.week1.week2.layered.model.User;
+import ru.mephi.week2.layered.model.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

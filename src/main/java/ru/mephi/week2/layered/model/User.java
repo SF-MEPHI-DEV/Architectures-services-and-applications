@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.layered.model;
+package ru.mephi.week2.layered.model;
 
 import lombok.Data;
 

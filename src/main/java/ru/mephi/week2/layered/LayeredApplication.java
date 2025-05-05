@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.layered;
+package ru.mephi.week2.layered;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,8 @@
-package ru.mephi.week1.week2.clean.application;
+package ru.mephi.week2.clean.application;
 
 import org.springframework.stereotype.Service;
-import ru.mephi.week1.week2.clean.domain.User;
-import ru.mephi.week1.week2.clean.interfaces.UserRepository;
+import ru.mephi.week2.clean.domain.User;
+import ru.mephi.week2.clean.interfaces.UserRepository;
 
 @Service
 public class CreateUserUseCase {

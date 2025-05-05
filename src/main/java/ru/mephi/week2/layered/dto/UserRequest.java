@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.layered.dto;
+package ru.mephi.week2.layered.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

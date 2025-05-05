@@ -1,7 +1,7 @@
-package ru.mephi.week1.week2.ddd.infrastructure.persistence;
+package ru.mephi.week2.ddd.infrastructure.persistence;
 
-import ru.mephi.week1.week2.ddd.domain.model.Order;
-import ru.mephi.week1.week2.ddd.domain.repository.OrderRepository;
+import ru.mephi.week2.ddd.domain.model.Order;
+import ru.mephi.week2.ddd.domain.repository.OrderRepository;
 
 import java.util.HashMap;
 import java.util.Map;

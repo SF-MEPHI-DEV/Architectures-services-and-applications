@@ -1,11 +1,11 @@
-package ru.mephi.week1.week2.clean.interfaces;
+package ru.mephi.week2.clean.interfaces;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.mephi.week1.week2.clean.application.CreateUserUseCase;
-import ru.mephi.week1.week2.clean.application.GetUserByIdUseCase;
-import ru.mephi.week1.week2.clean.domain.User;
+import ru.mephi.week2.clean.application.CreateUserUseCase;
+import ru.mephi.week2.clean.application.GetUserByIdUseCase;
+import ru.mephi.week2.clean.domain.User;
 
 @RestController
 @RequestMapping("/users")

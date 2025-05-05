@@ -1,4 +1,4 @@
-package ru.mephi.week1.week2.clean.domain;
+package ru.mephi.week2.clean.domain;
 
 import lombok.Data;
 

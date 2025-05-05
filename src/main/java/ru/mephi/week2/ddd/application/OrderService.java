@@ -1,9 +1,9 @@
-package ru.mephi.week1.week2.ddd.application;
+package ru.mephi.week2.ddd.application;
 
-import ru.mephi.week1.week2.ddd.domain.event.DomainEventPublisher;
-import ru.mephi.week1.week2.ddd.domain.event.OrderConfirmedEvent;
-import ru.mephi.week1.week2.ddd.domain.model.Order;
-import ru.mephi.week1.week2.ddd.domain.repository.OrderRepository;
+import ru.mephi.week2.ddd.domain.event.DomainEventPublisher;
+import ru.mephi.week2.ddd.domain.event.OrderConfirmedEvent;
+import ru.mephi.week2.ddd.domain.model.Order;
+import ru.mephi.week2.ddd.domain.repository.OrderRepository;
 
 public class OrderService {
     private final OrderRepository orderRepository;
